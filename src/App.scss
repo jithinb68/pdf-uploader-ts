@@ -1,0 +1,79 @@
+@import "~antd/dist/antd.css";
+
+.App {
+  text-align: center;
+  height: 100vh;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* My CSS */
+
+body {
+  background-color: #ffffff;
+}
+
+.brand-wrapper {
+  background-color: rgb(233, 114, 76);
+  flex-direction: column;
+  height: 100vh;
+  text-align: left;
+  h1,
+  h2 {
+    color: #ffffff;
+  }
+}
+
+.upload-doc {
+  min-height: 100vh;
+}
+
+.flex-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.file-details-wrapper {
+  margin: 20px;
+  .file-details {
+    background-color: #eeeeee;
+    padding: 20px;
+    text-align: left;
+  }
+}
+
+.page-header {
+  background-color: rgb(233, 114, 76);
+  padding: 10px 20px;
+  text-align: right;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  h2 {
+    color: #ffffff;
+  }
+}
+
+.ant-dropdown-link,
+.ant-dropdown-link:hover {
+  color: #ffffff;
+}
+
+.questionBox {
+  margin: 10px;
+}
