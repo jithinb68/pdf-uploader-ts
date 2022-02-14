@@ -12,10 +12,6 @@ The goal is to create a web app that allows to upload, edit and export a pdf fil
     <li>Export the edited File</li>
 </ul>
 
-<img src="https://imgur.com/a/Udr1lvr" width="500">
-<img src="https://imgur.com/a/im5UHgB" width="500">
-<img src="https://imgur.com/a/U4wVrTT" width="500">
-
 ```
 npm install
 
