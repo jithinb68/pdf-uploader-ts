@@ -1,4 +1,4 @@
-# News Web App
+# PDF Uploader/Editor Web App
 
 # Description
 
